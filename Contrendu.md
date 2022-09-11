@@ -86,6 +86,21 @@ La commande time est utilisée pour déterminer la durée d'exécution d'une com
 21.	
 ![GitHub Logo](/Asset/CIPM21.png)
 
+22.   Pour que la liste des fichiers trouvés soit enregistrée dans le fichier
+~/list_passwd_files.txt on tappe cette commande : "find / -iname "passwd" >> list_passwd_files.txt "
+
+Et pour que les erreurs soient redirigées vers le fichier spécial /dev/null on tappe cette commande : " find / -iname "passwd" 2>> /dev/null "
+
+
+
+23.
+
+24.  Le fichier history.log se trouvre dans /var/log/apt/history.log
+
+25.  Le fichier n'apparait pas car la base de données n'est pas a jour.
+
+
+
 ## Exercice 3. Découverte de l’éditeur de texte nano
 
 1. ![GitHub Logo](/Asset/EXO3.1.png)
