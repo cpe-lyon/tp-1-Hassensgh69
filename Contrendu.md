@@ -80,10 +80,22 @@ La commande time est utilisée pour déterminer la durée d'exécution d'une com
 18.	Ok
 
 19.	La commande est wc –l /etc/passwd
-20.	ok
+
+20.	Il y 141 pages dans le manuel qui comport le mot conversion (commande suivante) : man -k conversion | wc -l
+
 21.	
 ![GitHub Logo](/Asset/CIPM21.png)
 
+## Exercice 3. Découverte de l’éditeur de texte nano
 
+1. ![GitHub Logo](/Asset/EXO3.1.png)
 
+2. Fichiers avec les occurences du mot Kernel : 
 
+![GitHub Logo](/Asset/EXO3.2.1.png)
+
+Fichier avec les occurences remplacés par le mot noyau : 
+
+![GitHub Logo](/Asset/EXO3.2.2.png)
+
+3.  Pour deplacer  les 10 premières lignes à la fin du fichier il faut tout d'abord aller au debut du fichier en tappant Alt+Shift+/ ensuite couper la ligne qu'on veut déplacer en tappant ctrl+k, pour aller a la fin du fichier il faut tapper Alt+Shift+\ et faire un Ctrl+U pour coller la ligne. On refait ces étapes pour les dix premières lignes et pour tout annuler on tappe Alt+U jusqu'a retrouver le fichier d'origine. 
