@@ -4,32 +4,51 @@
 1.	La commande Linux which est utilisée pour identifier l'emplacement d’une commande exécutable.
 2.	Quand on se trouve dans le manuel de which par exemple (man which) on tape ensuite /option pour trouver tous les thermes option dans le manuel 
 3.	Pour quitter le manuel on tape sur la touche q
-4. Image 
+4. 
+![GitHub Logo](/Asset/Question4.png) 
+
 
 ### Navigation dans l’arborescence des fichiers
 5.	On me refuse l’accès a ce dossier
-image
+
+![GitHub Logo](/Asset/Question5.png) 
+
 6.	Cette commande ne marche pas car il faut d’abord se connecter en sudo en tapant la commande sudo su, et ensuite on pourra accéder au dossier root :
-image
+
+![GitHub Logo](/Asset/Question6.png) 
+
+
 7.	Ok
 
 8.	Le fichier c’est supprimé avec la commande rm mais pas le dossier car la commande rm supprime seulement les fichiers
-image
+
+![GitHub Logo](/Asset/Question8.1.png) 
+
+![GitHub Logo](/Asset/Question8.2.png) 
+
 9.	Pour supprimer un dossier il faut utiliser la commande rm –r 
-image
+
+![GitHub Logo](/Asset/Question9.png)
+
 10.	Le dossier 2 c’est aussi supprimer
-image
+
+![GitHub Logo](/Asset/Question10.png)
+
 11.	Pour supprimer en une seule commande Dossier2 et son contenu il faut taper rm –rf
 
 ### Commandes importantes
 1.	Pour afficher l’heure il faut tapper la commande date :
- image
+ 
+ ![GitHub Logo](/Asset/CIPM1.png)
+ 
 La commande time est utilisée pour déterminer la durée d'exécution d'une commande donnée.
 
 2.	Les fichiers commençant par un point sont des fichiers cachés
 
 3.	ls se trouve dans /usr/bin/ls
-	image
+	
+	![GitHub Logo](/Asset/CIPM3.png)
+	
 4.	Non il n’y a pas de manuel pour la commande ll, quand on tape alias ll on peut voir que cette commande est un raccourcie de la commande ls –alF
 
 5.	La commande qui permet d’afficher les fichiers dans /bin est : ls /bin 
@@ -61,5 +80,10 @@ La commande time est utilisée pour déterminer la durée d'exécution d'une com
 18.	Ok
 
 19.	La commande est wc –l /etc/passwd
+20.	ok
+21.	
+![GitHub Logo](/Asset/CIPM21.png)
+
+
 
 
