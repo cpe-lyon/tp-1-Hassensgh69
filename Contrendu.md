@@ -99,3 +99,8 @@ Fichier avec les occurences remplacés par le mot noyau :
 ![GitHub Logo](/Asset/EXO3.2.2.png)
 
 3.  Pour deplacer  les 10 premières lignes à la fin du fichier il faut tout d'abord aller au debut du fichier en tappant Alt+Shift+/ ensuite couper la ligne qu'on veut déplacer en tappant ctrl+k, pour aller a la fin du fichier il faut tapper Alt+Shift+\ et faire un Ctrl+U pour coller la ligne. On refait ces étapes pour les dix premières lignes et pour tout annuler on tappe Alt+U jusqu'a retrouver le fichier d'origine. 
+
+# Exercice 4. Personnalisation du shell
+
+J'ai modifier le fichier conf source .bashrc. :
+![GitHub Logo](/Asset/Exo4.png)
