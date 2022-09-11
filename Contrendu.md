@@ -119,4 +119,4 @@ Fichier avec les occurences remplacés par le mot noyau :
 
 J'ai modifier le fichier conf source .bashrc. :
 
-![GitHub Logo](/Asset/Exo4.png)
+![GitHub Logo](/Asset/Exo41.png)
